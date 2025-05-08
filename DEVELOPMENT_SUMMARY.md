@@ -148,5 +148,3 @@ ConcurrencyApi/
 ## Notlar ve Uyarılar
 
 - PostgreSQL'in xmin sütunu, her ne kadar concurrency kontrolü için kullanılabilse de, PostgreSQL dokümantasyonunda bu kullanım için resmi bir destek bulunmamaktadır
-- Gerçek uygulamalarda, daha güvenilir concurrency kontrolü mekanizmaları kullanmayı düşünebilirsiniz
-- Bu POC, sadece concurrency kontrolünün nasıl çalıştığını göstermek için tasarlanmıştır, production ortamı için değildir
