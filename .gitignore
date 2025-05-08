@@ -375,24 +375,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-Anatolio.sln.DotSettings
-.idea/config/applicationhost.config
 
-
-.idea/.idea.EnterpriseHub/.idea/.gitignore
-src/EnterpriseHub.Api/obj/EnterpriseHub.Api.csproj.nuget.dgspec.json
-.idea/.idea.EnterpriseHub/.idea/dataSources.xml
-.idea/.idea.EnterpriseHub/.idea/encodings.xml
-.idea/.idea.EnterpriseHub/.idea/indexLayout.xml
-.idea/.idea.EnterpriseHub/.idea/sonarlint.xml
-.idea/.idea.EnterpriseHub/.idea/vcs.xml
-.idea/.idea.EnterpriseHub/.idea/.name
-tests/EnterpriseHub.E2ETests/obj/project.nuget.cache
-tests/EnterpriseHub.UnitTests/obj/EnterpriseHub.UnitTests.csproj.nuget.dgspec.json
-tests/EnterpriseHub.UnitTests/obj/EnterpriseHub.UnitTests.csproj.nuget.g.props
-tests/EnterpriseHub.UnitTests/obj/EnterpriseHub.UnitTests.csproj.nuget.g.targets
-tests/EnterpriseHub.E2ETests/obj/EnterpriseHub.E2ETests.csproj.nuget.dgspec.json
-.idea/.idea.EnterpriseHub/.idea/dataSources.local.xml
-.idea/.idea.EnterpriseHub/.idea/projectSettingsUpdater.xml
-.idea/.idea.EnterpriseHub/.idea/workspace.xml
-.idea/.idea.EnterpriseHub/.idea/workspace.xml
