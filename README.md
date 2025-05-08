@@ -141,4 +141,3 @@ if (category.RowVersion != req.RowVersion)
 
 - Bu proje, production ortamı için değil, concurrency kontrolünün nasıl çalıştığını göstermek için tasarlanmıştır
 - PostgreSQL'in xmin sütunu, her ne kadar concurrency kontrolü için kullanılabilse de, PostgreSQL dokümantasyonunda bu kullanım için resmi bir destek bulunmamaktadır
-- Gerçek uygulamalarda, daha güvenilir concurrency kontrolü mekanizmaları kullanmayı düşünebilirsiniz
