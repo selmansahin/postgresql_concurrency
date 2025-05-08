@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4Z9RUeCMCKJ2LksuYXSOymVbVZsClGDVvnGo0lvO1u0=",
+  "Source": "ConcurrencyApi",
+  "BasePath": "_content/ConcurrencyApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
